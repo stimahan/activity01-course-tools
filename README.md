@@ -28,24 +28,24 @@ Before we get too far, I wanted to share with you our tentative schedule
 for the semester. I will include this information in your weekly tasks
 so you do not need to remember all of this.
 
-| Week | *ISL* Content                          | *DF* Content |
-|------|----------------------------------------|--------------|
-| 1    |                                        | Introduction |
-| 2    |                                        |              |
-| 3    | Ch 1, Sec 2.1 & 2.2, and Sec 3.0 & 3.1 | Ch 1         |
-| 4    | Sec 3.2                                |              |
-| 5    | Sec 3.3                                | Ch 2         |
-| 6    | Sec 4.0 - 4.2 (Mini-competition 1)     | Ch 3         |
-| 7    | Sec 4.3.0 - 4.3.4                      |              |
-| 8    | Sec 4.3.5                              | Ch 4         |
-| 9    | **Spring Break**                       |              |
-| 10   | Sec 4.4.0 - 4.4.2                      | Ch 5         |
-| 11   | Sec 4.6 - 4.7 (Mini-competition 2)     |              |
-| 12   | Sec 5.0 - 5.2                          | Ch 6         |
-| 13   | Sec 6.0 - 6.2, 6.4                     |              |
-| 14   | Sec 13.0 - 13.5                        | Ch 7         |
-| 15   |                                        | Conclusion   |
-| 16   | **Finals Week**                        |              |
+## STA 631 Content Schedule
+
+| Week | Topic            | *ISLR* Content                         | *DF* Content |
+|------|------------------|----------------------------------------|--------------|
+| 1    | Goal Setting     |                                        |              |
+| 2    | Course Tools     | (This week)                            | Introduction |
+| 3    | SLR              | Ch 1, Sec 2.1 & 2.2, and Sec 3.0 & 3.1 | Ch 1         |
+| 4    | MLR              | Sec 3.2 (Mon: Memorial Day Recess)     |              |
+| 5    | MLR              | Sec 3.3                                | Ch 2         |
+| 6    | Logistic         | Sec 4.0 - 4.2                          | Ch 3         |
+| 7    | Logistic         | Sec 4.3.0 - 4.3.4                      |              |
+| 8    | Multinomial      | Sec 4.3.5                              | Ch 4         |
+| 9    | GLM              | Sec 4.4.0 - 4.4.2                      |              |
+| 10   | GLM              | Sec 4.6 - 4.7                          | Ch 5         |
+| 11   | Cross-Validation | Sec 5.0 - 5.2                          | Ch 6         |
+| 12   | Model Selection  | Sec 6.0 - 6.2, 13.0 - 13.5             | Ch 7         |
+| 13   | Portfolio Work   |                                        | Conclusion   |
+| 14   | **Finals Week**  |                                        |              |
 
 ## Day 1
 
@@ -55,7 +55,7 @@ two resources:
 - This [Preparation](https://github.com/gvsu-sta518/preparation01) from
   the last time I taught STA 518 has videos that provide more details on
   what Git and GitHub are - though somewhat dated (our world changes so
-  much in 7 years), the concepts/ideas remain the same.
+  much in 3 years), the concepts/ideas remain the same.
 - This short (5-10 minutes) interactive [Markdown
   tutorial](https://commonmark.org/help/tutorial/). Note that if you
   took STA 518 with me or have used Markdown to author documents

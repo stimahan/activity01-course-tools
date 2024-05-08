@@ -31,18 +31,12 @@ new stock in. I am not sure how up-to-date their site is.
 
 ## Task 1: I was going to create my own directions, but…
 
-I cannot think of a better person to give credit to for website
+I cannot think of better people to give credit to for website
 development in R than the amazing Drs. Desirée De Leon and Alison Hill.
 Rather than recreating the wheel, let’s use their amazing resource:
-[rstudio4edu](https://rstudio4edu.github.io/rstudio4edu-book/make-distill.html)
-(link to Chapter 21: Make a Distill site).
-
-I would recommend starting at Section 21.2 (Getting set up) even if you
-feel copetent in your GitHub skills. I will be following these
-directions as you’re working and will provide clarity if needed or when
-I run into something that seems odd.
-
-Please get a hole of me when you need assistance.
+[rstudio4edu](https://rstudio4edu.github.io/rstudio4edu-book/make-distill.html#distill-site-setup)
+(link to Section 21.2: Make a Distill site - Getting set up). Please get
+a hold of me when you need assistance.
 
 Your goals are to:
 
