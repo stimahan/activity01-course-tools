@@ -33,6 +33,22 @@ I also encourage you to use comments (`#`) to help you identify each item (I pro
 
 ```{r simple-calculations}
 # Item 1
+2 + 5 # Add values 2 and 5
+
+# Item 2
+int_vect <- 1:9 # Create numerical vector of numbers 1 to 9
+print(int_vect) # check work
+
+# Item 3
+char_vect <- LETTERS[1:17] # Create character vector of letters A to Q
+print(char_vect) # check work
+
+# Item 4
+# Number of items in char_vect after the letter "D"
+num_after_D <- sum(char_vect > "D")
+
+# Print the result
+print(num_after_D)
 
 ```
 
